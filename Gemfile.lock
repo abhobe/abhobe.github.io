@@ -9,7 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    ffi (1.14.0)
+    ffi (1.14.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.5)
@@ -66,6 +66,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  universal-darwin-20
   x86_64-linux
 
 DEPENDENCIES
